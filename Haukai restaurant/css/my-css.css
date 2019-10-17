@@ -28,7 +28,7 @@ h4 {
 .topnav {
     overflow:hidden;
     background-color: midnightblue;
-    font-size: 2vw
+    font-size: 1.5vw
 }
 img {
     width: 100%
@@ -96,4 +96,7 @@ th, td {
 .table{
     align-content: space-around;
     Padding:50px;
+}
+.identified {
+    color: black
 }
